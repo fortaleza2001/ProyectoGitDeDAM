@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Añado una primera línea al archivo_b.txt en la rama intento
+=======
+me estoy colando 
+>>>>>>> remotes/origin/main
